@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react_diceRollerApp/static/css/main.bbe85f0c.css",
+    "main.js": "/react_diceRollerApp/static/js/main.015eb944.js",
+    "static/js/787.9c379135.chunk.js": "/react_diceRollerApp/static/js/787.9c379135.chunk.js",
+    "static/media/6.png": "/react_diceRollerApp/static/media/6.7314092cf2e027f0861f.png",
+    "static/media/5.png": "/react_diceRollerApp/static/media/5.b0b1de7586254b09e0c6.png",
+    "static/media/4.png": "/react_diceRollerApp/static/media/4.9c77d96dce9d714afccd.png",
+    "static/media/2.png": "/react_diceRollerApp/static/media/2.7b2573a587b14babc4a8.png",
+    "static/media/3.png": "/react_diceRollerApp/static/media/3.6f00af050bff1470d734.png",
+    "static/media/1.png": "/react_diceRollerApp/static/media/1.2b4a1acc1ae8dc484445.png",
+    "index.html": "/react_diceRollerApp/index.html",
+    "main.bbe85f0c.css.map": "/react_diceRollerApp/static/css/main.bbe85f0c.css.map",
+    "main.015eb944.js.map": "/react_diceRollerApp/static/js/main.015eb944.js.map",
+    "787.9c379135.chunk.js.map": "/react_diceRollerApp/static/js/787.9c379135.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbe85f0c.css",
+    "static/js/main.015eb944.js"
+  ]
+}
